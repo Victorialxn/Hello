@@ -1,0 +1,23 @@
+.bo1{background-color: ghostwhite;}
+.bo2{background-color:lightpink;width:400px;height:550px;margin: auto;}
+#calculater{
+	width: 100%;
+	height: 100%;
+	border: solid 4px darksalmon ;
+}
+.numberkey{
+	width: 30px;
+	border: solid 4px darksalmon ;
+	font-size: large;
+	font: "黑体" " century gothic";
+	text-align: center;
+}
+#display{
+	width: 100%;
+	height: 50px;
+	background-color: blanchedalmond;
+	border: solid 4px darksalmon ;
+	font-weight: bold;
+	font-family: "楷体";
+	
+}
